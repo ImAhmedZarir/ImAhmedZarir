@@ -21,6 +21,29 @@
 
 ---
 
+### 🚀 Featured Open-Source Project
+
+<div align="center">
+  <table width="100%" border="0">
+    <tr>
+      <td>
+        <h3>🛡️ <a href="https://github.com/ImAhmedZarir/prompt-shield">PromptShield</a> — Zero-Trust AI Security & Privacy Gateway</h3>
+        <p>
+          An ultra-fast, defense-grade proxy for LLM APIs (OpenAI, Anthropic, Gemini, Ollama). Strips leaked secrets using Shannon entropy, redacts PII with a reversible token vault, and blocks prompt injection attacks in real time.
+        </p>
+        <p>
+          <a href="https://github.com/ImAhmedZarir/prompt-shield"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="Repo" /></a>
+          <img src="https://img.shields.io/badge/TypeScript-5.5-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square" alt="Tests" />
+          <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### ⚡ Executive Profile
 
 ```yaml
